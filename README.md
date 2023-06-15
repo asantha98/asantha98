@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asanth amadhushan</h1>
+<h1 align="center">Hi 👋, I'm Asantha Madhushan</h1>
 <h3 align="center">A passionate frontend developer from In Python Language. Also I am interesting in Networking Field.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif">
 
